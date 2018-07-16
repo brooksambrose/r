@@ -1,2 +1,2 @@
-install.packages("rjava")
+install.packages("rJava")
 
