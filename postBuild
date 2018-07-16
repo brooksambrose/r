@@ -1,2 +1,4 @@
+#!/bin/bash
+
 R CMD javareconf -e
 Rscript -e 'install.packages("rJava")'
